@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Santosh 👋
+
+I am a Full Stack Developer currently working with NuNet to lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks.
 
 - 🔭 I’m currently working on [NuNet framework](https://nunet.io/).
 - 🌱 I’m currently learning Data Structures and Algorithm
@@ -10,9 +12,19 @@
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-### Skills
-<table><tr><td valign="top" width="33%">
 
+### Recent articles on santoshk.dev
+
+- [How to Create an Authentication System using FastAPI](https://santoshk.dev/series/tdd-auth-with-fastapi/)
+- [How to Setup a Jenkins to DockerHub Pipeline with Multi-Arch Images](https://santoshk.dev/posts/2022/how-to-setup-a-jenkins-to-dockerhub-pipeline-with-multi-arch-images/)
+- [Automate HTTPS Certificates with Ansible Roles ft. Let's Encrypt & CloudFlare](https://santoshk.dev/posts/2022/automate-https-certificates-with-ansible-roles/)
+- [This is how OOPs and Mocking are related to Dependency Injection](https://santoshk.dev/posts/2022/this-is-how-oops-and-mocking-are-related-to-dependency-injection/)
+
+<details>
+  <summary>Show more sections</summary>
+
+  ### Skills
+  <table><tr><td valign="top" width="33%">
 
 
 #### Frontend  
@@ -28,7 +40,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 #### Backend  
@@ -65,15 +76,10 @@
 </div>
 
 </td></tr></table>  
-
-### Recent articles on santoshk.dev
-
-- [How to Create an Authentication System using FastAPI](https://santoshk.dev/series/tdd-auth-with-fastapi/)
-- [How to Setup a Jenkins to DockerHub Pipeline with Multi-Arch Images](https://santoshk.dev/posts/2022/how-to-setup-a-jenkins-to-dockerhub-pipeline-with-multi-arch-images/)
-- [Automate HTTPS Certificates with Ansible Roles ft. Let's Encrypt & CloudFlare](https://santoshk.dev/posts/2022/automate-https-certificates-with-ansible-roles/)
-- [This is how OOPs and Mocking are related to Dependency Injection](https://santoshk.dev/posts/2022/this-is-how-oops-and-mocking-are-related-to-dependency-injection/)
-
+  
+  
 ### Connect with me  
+
 <div align="center">
 <a href="https://linkedin.com/in/sntshk" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -93,12 +99,16 @@
 <a href="https://dev.to/sntshk" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div> 
 
-<!-- ### GitHub Stats
+### GitHub Stats
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh&hide_border=true&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=santosh&show_icons=true&count_private=true&hide_border=true" width="420" />
-</div> -->
+</div>
+</details>
+ 
+
+
 
