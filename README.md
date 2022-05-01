@@ -3,9 +3,10 @@
 - 🔭 I’m currently working on [NuNet framework](https://nunet.io/).
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 👯 I’m looking to collaborate on backend and devops related tasks
+- 📕 Read my articles at [santoshk.dev](https://santoshk.dev)
 - 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/intent/follow?screen_name=sntshk) and [LinkedIn](https://www.linkedin.com/in/sntshk/)
 - 😄 Pronouns: he/his
+
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
@@ -77,7 +78,7 @@
 <a href="https://linkedin.com/in/sntshk" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://twitter.com/sntshk" target="_blank">
+  <a href="https://twitter.com/intent/follow?screen_name=sntshk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/939986" target="_blank">
