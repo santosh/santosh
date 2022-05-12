@@ -4,12 +4,12 @@ I am a Full Stack Developer currently working with NuNet to lets anyone share an
 
 - 🔭 I’m currently working on [NuNet framework](https://nunet.io/).
 - 🌱 I’m currently learning Data Structures and Algorithm
+- 👨🏽‍💻 I'm a polyglot programmer and worked with Python, JavaScript, Go and Java.
 - 👯 I’m looking to collaborate on backend and devops related tasks
 - 📕 Read my articles at [santoshk.dev](https://santoshk.dev)
 - 💬 Ask me about anything
 - 😄 Pronouns: he/his
-
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: I'm a former digital artist and have worked in VFX industry in past.
 <!-- - 🤔 I’m looking for help with ... -->
 
 
