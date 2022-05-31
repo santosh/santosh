@@ -1,6 +1,6 @@
 ### Hi there, I'm Santosh 👋
 
-I am a Full Stack Developer currently working with NuNet to lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks.
+I am a Full Stack Developer currently working with NuNet that lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks.
 
 - 🔭 I’m currently working on [NuNet framework](https://nunet.io/).
 - 🌱 I’m currently learning Data Structures and Algorithm
