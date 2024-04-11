@@ -3,8 +3,7 @@
 I am a Full Stack Developer currently working with NuNet that lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks.
 
 - 🔭 I’m currently working on [NuNet framework](https://nunet.io/).
-- 🌱 I’m currently learning Data Structures and Algorithm
-- 👨🏽‍💻 I'm a polyglot programmer and worked with Python, JavaScript, Go and Java.
+- 👨🏽‍💻 I'm a polyglot programmer and worked with Python, JavaScript and Go.
 - 👯 I’m looking to collaborate on backend and devops related tasks
 - 📕 Read my articles at [santoshk.dev](https://santoshk.dev)
 - 💬 Ask me about anything
@@ -15,10 +14,11 @@ I am a Full Stack Developer currently working with NuNet that lets anyone share 
 
 ### Recent articles on santoshk.dev
 
-- [How to Create an Authentication System using FastAPI](https://santoshk.dev/series/tdd-auth-with-fastapi/)
-- [How to Setup a Jenkins to DockerHub Pipeline with Multi-Arch Images](https://santoshk.dev/posts/2022/how-to-setup-a-jenkins-to-dockerhub-pipeline-with-multi-arch-images/)
+- [Unlocking Docker's Power With Go: A Developer's Perspective](https://santoshk.dev/posts/2023/unlocking-dockers-power-with-go-a-developers-perspective-part-1/)
+- [Introduction to FFmpeg by Basic Common Examples](https://santoshk.dev/posts/2023/introduction-to-ffmpeg-by-basic-common-examples/)
 - [Automate HTTPS Certificates with Ansible Roles ft. Let's Encrypt & CloudFlare](https://santoshk.dev/posts/2022/automate-https-certificates-with-ansible-roles/)
-- [This is how OOPs and Mocking are related to Dependency Injection](https://santoshk.dev/posts/2022/this-is-how-oops-and-mocking-are-related-to-dependency-injection/)
+- [Getting Started With NodeMCU Development on Ubuntu](https://santoshk.dev/posts/2023/getting-started-with-nodemcu-development-on-ubuntu/)
+- [Exploring Rootless Docker](https://santoshk.dev/posts/2023/exploring-rootless-docker/)
 
 <details>
   <summary>Show more sections</summary>
